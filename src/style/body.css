@@ -1,0 +1,55 @@
+.img-bg{
+    margin-left: -80%;
+    margin-top: -90px;
+}
+
+.header{
+    margin-top: -20px;
+    margin-left: -5%;
+    text-align: left;
+}
+
+
+
+.header1{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Passion One', cursive;
+}
+
+.img-Icons{
+    margin-left: 70%;
+    margin-top: -90%;
+}
+
+.img-Icons2{
+    margin-left: -100%;
+    margin-top: 55%;
+    
+}
+
+.img-holder{
+    margin-top: -154px !important;
+    margin-left: -19%;
+}
+
+.btn-btn{
+    margin-left: 1%;
+    margin-top: 30px;
+    font-weight: bold;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Passion+One:wght@700&display=swap");
+
+.txt-sub{
+    margin-top: 10px;
+}
+
+.img-icons3{
+margin-left: -210px ;
+margin-top: -93px;
+}
+
+.img-holder2{
+    margin-left: 71%;
+}

@@ -1,0 +1,57 @@
+.mr-auto {
+   
+   margin-left: 20%;
+   word-spacing: 130px !important;
+   width: 25%;
+   float: left;
+   font-weight: bold;
+   text-decoration: none;
+   color: black;
+ 
+}
+
+#basic-navbar-nav{
+    margin-left: 20px;
+
+}
+
+.mr-auto:nth-child(2):hover ~ .line {
+    background-color: #3183DF;
+}
+
+.line{
+    width: 120px;
+    height: 4px;
+    background-image: linear-gradient(#3183DF,#B554FF);
+}
+
+.txt-brand{
+    margin-left: 5%;
+    height: 46px;
+    width: 44px;
+    border-radius: 4px;
+    background-image: linear-gradient(#3183DF,#B554FF);
+}
+
+.txt-brand-circle{
+    margin-left: -3%;
+    height: 45px;
+    border-color: white;
+    
+    width: 40px;
+    border-radius: 41px;
+    background-image: linear-gradient(#3183DF,#B554FF);
+}
+
+.Navbar{
+    margin-top: 2%;
+}
+
+.btn {
+    background-image: linear-gradient(#3183DF,#5A54FF);
+    margin-left: 70% ;
+    width: 200px;
+    margin-top: -6%;
+    border-radius: 24px !important;
+
+}
